@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mindfort-kanban": {
+      "hosting": {
+        "agile-board": [
+          "mindfort-kanban"
+        ]
+      }
+    }
+  }
+}
